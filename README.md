@@ -5,13 +5,13 @@ design de service autour de l’eau du robinet à l'aide de 2 objets emblématiq
 
 La distribution
 
-Les coureurs de Eau Courante se rendent dans les places rennaises  pour y distribuer de l’eau fraîche à tous les abonnés du programme.
-Ils donnent aussi des gourdes en papier aux personnes qui veulent souscrire à ce programme et devenir de nouveaux abonnées.
+Les coureurs de Eau Courante se rendent dans les places de la ville pour y distribuer de l’eau fraîche à tous les abonnés du programme.
+Ils donnent aussi des gourdes en papier aux personnes qui veulent soutenir ce programme.
 
 Se déplacer
 
 Les chariots que tirent les coureurs semblent léviter : des demi-sphères enduites de Téflon sont fixées sur la base de la coque.
-Cette matière permet au chariot de ne pas frotter sur les différents revêtement des sols à Rennes (ici, sur la place du Parlement de Bretagne: des graviers).
+Cette matière permet au chariot de ne pas frotter sur les différents revêtement des sols de la ville (graviers, pavers, bitume, sable, terre, etc.).
 
 Se faire connaitre 
 
