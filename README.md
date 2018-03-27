@@ -11,7 +11,7 @@ Ils donnent aussi des gourdes en papier aux personnes qui veulent soutenir ce pr
 Se déplacer
 
 Les chariots que tirent les coureurs semblent léviter : des demi-sphères enduites de Téflon sont fixées sur la base de la coque.
-Cette matière permet au chariot de ne pas frotter sur les différents revêtement des sols de la ville (graviers, pavers, bitume, sable, terre, etc.).
+Cette matière permet au chariot de ne pas frotter sur les différents revêtement des sols de la ville (graviers, pavés, bitume, sable, terre, etc.).
 
 Se faire connaitre 
 
