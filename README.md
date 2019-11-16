@@ -1,8 +1,5 @@
-
-![Oveview](https://github.com/yropert/eau-courante/blob/master/pictures/YannROPERT_Eau%20courante2_PFE.jpg)
-
 # Eau Courante
-![Eau Courante Logo](https://github.com/yropert/eau-courante/blob/master/pictures/logo_Eau-courante.png)
+![Oveview](https://github.com/yropert/eau-courante/blob/master/pictures/YannROPERT_Eau%20courante2_PFE.jpg)  
 End of studies project, LISAA Rennes (2016).   
 *ProductDesign*,   
 *ServiceDesign*
