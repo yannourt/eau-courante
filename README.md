@@ -1,9 +1,11 @@
-![Eau Courante Logo](url_de_l'image "")
+![Eau Courante Logo](https://github.com/yropert/eau-courante/blob/master/pictures/logo_Eau-courante.png)
 
 # Eau Courante
 End of studies project, LISAA Rennes (2016).   
 *ProductDesign*,   
 *ServiceDesign*
+
+![Eau Courante Drawing_Move](https://github.com/yropert/eau-courante/blob/master/pictures/drawing.jpg)
 
 ### Description 
 
@@ -26,8 +28,8 @@ This material prevents the trolley from rubbing on the city's various floor cove
 The goal of the program is to provide the public with prevention services. Water is a common good and tap water is a major issue for our society and our future.
 The runners in the program are easily recognizable by their uniforms.
 
-![Oveview](url_de_l'image "")
+![Oveview](https://github.com/yropert/eau-courante/blob/master/pictures/YannROPERT_Eau%20courante_PFE.jpg)
 
 ![Oveview](https://github.com/yropert/eau-courante/blob/master/YannROPERT_Eau%20courante2_PFE.jpg)
 
-![Oveview](url_de_l'image "")
+![Oveview](https://github.com/yropert/eau-courante/blob/master/pictures/YannROPERT_Eau%20courante3_PFE.jpg)
