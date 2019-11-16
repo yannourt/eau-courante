@@ -2,7 +2,7 @@
 
 # Eau Courante
 End of studies project, LISAA Rennes (2016). 
-*ProductDesign* 
+*ProductDesign*,   
 *ServiceDesign*
 
 ### Description 
