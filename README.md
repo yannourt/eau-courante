@@ -1,7 +1,7 @@
 ![Eau Courante Logo](url_de_l'image "")
 
 # Eau Courante
-End of studies project, LISAA Rennes (2016). 
+End of studies project, LISAA Rennes (2016).   
 *ProductDesign*,   
 *ServiceDesign*
 
