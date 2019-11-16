@@ -1,11 +1,11 @@
-![Eau Courante Logo](https://github.com/yropert/eau-courante/blob/master/pictures/logo_Eau-courante.png)
+
+![Oveview](https://github.com/yropert/eau-courante/blob/master/pictures/YannROPERT_Eau%20courante2_PFE.jpg)
 
 # Eau Courante
+![Eau Courante Logo](https://github.com/yropert/eau-courante/blob/master/pictures/logo_Eau-courante.png)
 End of studies project, LISAA Rennes (2016).   
 *ProductDesign*,   
 *ServiceDesign*
-
-![Eau Courante Drawing_Move](https://github.com/yropert/eau-courante/blob/master/pictures/drawing.jpg)
 
 ### Description 
 
@@ -30,6 +30,6 @@ The runners in the program are easily recognizable by their uniforms.
 
 ![Oveview](https://github.com/yropert/eau-courante/blob/master/pictures/YannROPERT_Eau%20courante_PFE.jpg)
 
-![Oveview](https://github.com/yropert/eau-courante/blob/master/pictures/YannROPERT_Eau%20courante2_PFE.jpg)
-
 ![Oveview](https://github.com/yropert/eau-courante/blob/master/pictures/YannROPERT_Eau%20courante3_PFE.jpg)
+
+![Eau Courante Drawing_Move](https://github.com/yropert/eau-courante/blob/master/pictures/drawing.jpg)
