@@ -1,23 +1,31 @@
-# eau-courante
-Projet de fin d'études #DesignProduit #DesignService, à LISAA Rennes (2016)
+![Eau Courante Logo](url_de_l'image "")
 
-> Description 
+# Eau Courante
+End of studies project *ProductDesign* *ServiceDesign*, LISAA Rennes (2016).  
 
-Service de distribution de l’eau du robinet à l'aide de deux objets inédits : la gourde et le chariot
-Des coureurs se rendent dans les nombreux bars partenaires de la ville afin de récolter de l'eau du robinet. Cette eau est prélevée directement dans le robinet de l'établissement, est filtrée puis redistribuer aux abonnés du programme.
-Ce service de proximité a vocation de recréer du lien social et permet de réduire l'impact écologique des bouteilles d'eau qui florissent en ville lors de forte chaleur.
+### Description 
 
-> La distribution
+Tap water distribution service using two new objects: the paper bottle and the trolley.
+Runners go to the city's many partner bars to collect tap water. This water is taken directly from the facility's tap, filtered and then redistributed to program subscribers.
+This local service is intended to recreate social ties and reduce the ecological impact of water bottles that bloom in cities during hot weather.
 
-Les coureurs de 'Eau Courante' se rendent dans les places de la ville pour y distribuer de l’eau fraîche du robinet à tous les abonnés du programme.
-Ils donnent aussi des gourdes en papier aux personnes qui veulent soutenir ce programme.
+### Distributing
 
-> Se déplacer
+Eau Courante's runners go to the city squares to distribute fresh tap water to all subscribers of the programme.
+They also give paper bottles to people who want to support this program.
 
-Les chariots que tirent les coureurs semblent léviter : des demi-sphères enduites de Téflon sont fixées à la base de la coque.
-Cette matière permet au chariot de ne pas frotter sur les différents revêtement des sols de la ville (graviers, pavés, bitume, sable, terre, etc.)
+### Moving
 
-> Se faire connaitre 
+The trolleys that the runners pull seem to levitate: Teflon-coated half-spheres are attached to the base of the hull.
+This material prevents the trolley from rubbing on the city's various floor coverings (gravel, paving stones, bitumen, sand, earth, etc.)
 
-Le but du programme est aussi de faire de la prévention auprès de la population. L’eau est un bien commun et l’eau du robinet représente en enjeu majeur pour notre société et notre avenir.
-Les coureurs du programme sont facilement reconnaissables grâce à leur uniforme.
+### Coming forward 
+
+The goal of the program is to provide the public with prevention services. Water is a common good and tap water is a major issue for our society and our future.
+The runners in the program are easily recognizable by their uniforms.
+
+![Oveview](url_de_l'image "")
+
+![Oveview](url_de_l'image "")
+
+![Oveview](url_de_l'image "")
