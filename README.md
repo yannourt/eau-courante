@@ -31,9 +31,9 @@ The runners in the program are easily recognizable by their uniforms.
 
 ![Eau Courante Drawing_Move](https://github.com/yropert/eau-courante/blob/master/pictures/drawing.jpg)
 
-##### Contributing
+### Contributing
 
 Everyone is encouraged to help improve this project. 
 Feel free to send me an email at ![yann.ropert@gmail.com](mailto:yann.ropert@gmail.com) in order to be a contributor and improve the paper bottle concept.
 
-Yann Ropert
+##### Yann Ropert
