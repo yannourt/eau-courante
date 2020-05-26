@@ -23,17 +23,16 @@ This material prevents the trolley from rubbing on the city's various floor cove
 ### Coming forward 
 
 The goal of the program is to provide the public with prevention services. Water is a common good and tap water is a major issue for our society and our future.
-The runners in the program are easily recognizable by their uniforms.
+
+### Contributing
+
+Everyone is encouraged to help improve this project. 
+Feel free to send me an email at ![yann.ropert@gmail.com](mailto:yann.ropert@gmail.com) in order to be a contributor and improve the paper bottle concept.
 
 ![Oveview](https://github.com/yropert/eau-courante/blob/master/pictures/YannROPERT_Eau%20courante_PFE.jpg)
 
 ![Oveview](https://github.com/yropert/eau-courante/blob/master/pictures/YannROPERT_Eau%20courante3_PFE.jpg)
 
 ![Eau Courante Drawing_Move](https://github.com/yropert/eau-courante/blob/master/pictures/drawing.jpg)
-
-### Contributing
-
-Everyone is encouraged to help improve this project. 
-Feel free to send me an email at ![yann.ropert@gmail.com](mailto:yann.ropert@gmail.com) in order to be a contributor and improve the paper bottle concept.
 
 ##### Yann Ropert
